@@ -36,29 +36,29 @@ The script will output the following:
 ```bash
 Language Spread for repository spack/spack:
 ----------------------------------------
-Python: 24753052 bytes
-Shell: 514250 bytes
-Prolog: 100980 bytes
-C: 49894 bytes
-CMake: 13351 bytes
-Dockerfile: 12941 bytes
-Makefile: 11955 bytes
-Batchfile: 9355 bytes
-PowerShell: 8138 bytes
-BitBake: 4549 bytes
-Lua: 3080 bytes
-Tcl: 2844 bytes
-C++: 2816 bytes
-Standard ML: 2592 bytes
-Ruby: 2492 bytes
-HTML: 2365 bytes
-M4: 2111 bytes
-Perl: 615 bytes
-Fortran: 561 bytes
-RouterOS Script: 37 bytes
-Total bytes of code: 25497978 bytes
+- Python: 24880339 bytes
+- Shell: 513681 bytes
+- Prolog: 100980 bytes
+- C: 49894 bytes
+- CMake: 13351 bytes
+- Dockerfile: 12941 bytes
+- Makefile: 11955 bytes
+- Batchfile: 9355 bytes
+- PowerShell: 8138 bytes
+- BitBake: 4549 bytes
+- Lua: 3080 bytes
+- Tcl: 2844 bytes
+- C++: 2816 bytes
+- Standard ML: 2592 bytes
+- Ruby: 2492 bytes
+- HTML: 2365 bytes
+- M4: 2111 bytes
+- Perl: 615 bytes
+- Fortran: 561 bytes
+- RouterOS Script: 37 bytes
+Total bytes of code: 25624696 bytes
 ```
-This information was generated on October 01, 2024 at 20:44 EST.
+This information was generated on Fri Oct 11 03:37:21 PM EDT 2024
 
 ## Error Handling
 
