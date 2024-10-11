@@ -22,7 +22,7 @@ fi # Check if the response is valid
 # Parse the languages and their byte counts
 echo "Language Spread for repository $REPO:"
 echo "----------------------------------------"
-echo "$response" | jq -r 'to_entries | .[] | "\(.key): \(.value) bytes"'
+echo "$response" | jq -r 'to_entries | .[] | "- \(.key): \(.value) bytes"'
 
 # Optional: Total bytes of code
 total_bytes=$(echo "$response" | jq 'to_entries | map(.value) | add')
